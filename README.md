@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ignacio Prieto Dacoba
+Ignacio Nicolás Prieto Dacoba
 
 💻 Desarrollador Web Junior  
 🚀 Buscando mi primera oportunidad en IT  
