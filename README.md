@@ -1,10 +1,10 @@
 ## Ignacio Nicolás Prieto Dacoba
 
 💻 Desarrollador Web Junior  
-🚀 Buscando mi primera oportunidad en IT  
+🚀 Buscando continuidad en mi experiencia IT  
 
 ## 🛠️ Tecnologías
-HTML | CSS | JavaScript | PHP | MySQL  
+Front-End | Wordpress | Shopify | PHP | MySQL | Rest API | Posicionamiento SEO 
 
 ## Proyectos destacados
 👉 Sistema de Gestión de Citas  
