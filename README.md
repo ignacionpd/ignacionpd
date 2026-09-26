@@ -9,11 +9,14 @@ Front-End | Wordpress | Shopify | PHP | MySQL | Rest API | Posicionamiento SEO
 ## Proyectos destacados
 👉 Sistema de Gestión de Citas  
 👉 Sistema de Gestión de Solicitudes de Contacto  
-👉 Panel de control de usuarios (admin/user) 
+👉 Panel de control de usuarios (admin/user)
 
 👉 Dentro de los más destacados:
+
 ► https://juanmadj.infinityfreeapp.com/
+
 ► https://aksiennasl.infinityfreeapp.com/
+
 ► https://grupocrear.infinityfreeapp.com/
 
 ## 📫 Contacto
