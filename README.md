@@ -13,18 +13,13 @@ Front-End | Wordpress | Shopify | PHP | MySQL | Bootstrap | Posicionamiento SEO
 
 👉 Dentro de los más destacados:
 
-► https://juanmadj.infinityfreeapp.com/
-
-► https://aksiennasl.infinityfreeapp.com/
-
+► https://juanmadj.infinityfreeapp.com/  
+► https://aksiennasl.infinityfreeapp.com/  
 ► https://grupocrear.infinityfreeapp.com/
 
 ## 📫 Contacto
 📧 ignacionprieto@gmail.com  
 📱 +34 651 675 580  
-
-🔗 Web Personal: https://iprieto.freedev.app
-
-🔗 LinkedIn: https://linkedin.com/in/ignacionprietodacoba 
-
-🔗 GitHub: https://github.com/ignacionpd  
+🔗 Web Personal: https://iprieto.freedev.app  
+🔗 LinkedIn: https://linkedin.com/in/ignacionprietodacoba  
+🔗 GitHub: https://github.com/ignacionpd
