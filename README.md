@@ -11,7 +11,6 @@ Front-End | Wordpress | Shopify | PHP | MySQL | Bootstrap | Posicionamiento SEO
 👉 Sistema de Gestión de Solicitudes de Contacto  
 👉 Panel de control de usuarios (admin/user)  
 👉 Dentro de los más destacados:  
-
 ► https://juanmadj.infinityfreeapp.com/  
 ► https://aksiennasl.infinityfreeapp.com/  
 ► https://grupocrear.infinityfreeapp.com/
