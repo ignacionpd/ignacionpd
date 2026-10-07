@@ -23,5 +23,6 @@ Front-End | Wordpress | Shopify | PHP | MySQL | Bootstrap | Posicionamiento SEO
 📧 ignacionprieto@gmail.com  
 📱 +34 651 675 580  
 
+🔗 Web Personal: https://iprieto.freedev.app
 🔗 LinkedIn: https://linkedin.com/in/ignacionprietodacoba  
 🔗 GitHub: https://github.com/ignacionpd  
