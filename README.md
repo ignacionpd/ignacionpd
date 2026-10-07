@@ -4,7 +4,7 @@
 🚀 Buscando continuidad en mi experiencia IT  
 
 ## 🛠️ Tecnologías
-Front-End | Wordpress | Shopify | PHP | MySQL | Rest API | Posicionamiento SEO 
+Front-End | Wordpress | Shopify | PHP | MySQL | Bootstrap | Posicionamiento SEO 
 
 ## Proyectos destacados
 👉 Sistema de Gestión de Citas  
