@@ -6,7 +6,7 @@
 
 ## 📫 Contacto
 ✉️ **Email:** [ignacionprieto@gmail.com](mailto:ignacionprieto@gmail.com)   
-📱 +34 651 675 580  
+📱 **Móvil:** +34 651 675 580  
 🌐 **Portfolio:** [iprieto.freedev.app](https://iprieto.freedev.app)  
 💼 **LinkedIn:** [linkedin.com/in/ignacionprietodacoba](https://www.linkedin.com/in/ignacionprietodacoba/)  
 🔗 **GitHub**: https://github.com/ignacionpd
