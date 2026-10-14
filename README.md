@@ -1,6 +1,6 @@
 ## Ignacio Nicolás Prieto Dacoba
 
-💻 Desarrollador Web Full Stack en Alicante (España). Diseño y construyo páginas web a medida con un front-end cuidado y un back-end seguro.
+💻 **Desarrollador Web Full Stack** en Alicante (España). Diseño y construyo páginas web a medida con un front-end cuidado y un back-end seguro.
 
 🚀 Disponible para incorporarme a una empresa (presencial en Alicante, en remoto o con disponibilidad para cambiar de residencia) y para proyectos freelance en España y Argentina.
 
